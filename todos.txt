@@ -1,1 +1,6 @@
-all of the pink should be clickable
+all of the pink in the navbar should be clickable √
+make a build folder
+
+make service boxes into links
+
+add a footer for image attribution
